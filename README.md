@@ -25,3 +25,13 @@
 > asdfa
 >> asfas
 >>> asdfadsf
+
+那就进入奇怪的[网站](www.baidu.com "百度")吧
+
+或者是[网站6][1]
+
+[1]:https://github.com "Github"
+
+![好图片啊](C:/Users/任鼎翔/Desktop/pcy "park")
+
+
